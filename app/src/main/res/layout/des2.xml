@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ExtraText">
+    >
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="150dp"
+        android:background="@drawable/rectangle2"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="2dp"/>
+    <ImageButton
+        android:id="@+id/arrowback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/preview"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck"/>
+    <TextView
+        android:id="@+id/mochi_strawa"
+        android:layout_width="268dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:text="@string/mochi_strawa"
+        android:lineSpacingExtra="-1sp"
+        android:gravity="top"
+        android:textColor="#1C222B"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        />
+
+    <ImageView
+        android:id="@+id/rectangle_1"
+        android:layout_width="353dp"
+        android:layout_height="550dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="300dp"
+        android:background="@drawable/rectangle1" />
+    <TextView
+        android:id="@+id/deskripsi_ma"
+        android:layout_width="320dp"
+        android:layout_height="456dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="155dp"
+        android:text="@string/deskripsi_ma"
+        android:lineSpacingExtra="-1sp"
+        android:gravity="top"
+        android:textColor="#1C222B"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="700dp"
+        android:src="@drawable/logo" />
+</RelativeLayout>

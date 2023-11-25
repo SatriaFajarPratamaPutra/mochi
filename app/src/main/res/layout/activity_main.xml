@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC0CB">
+
+    <ImageButton
+        android:id="@+id/menu1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="205dp"
+        android:src="@drawable/menu1"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/menu2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/menu2"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/menu3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/menu1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginRight="21dp"
+        android:src="@drawable/menu3"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="218dp"
+        android:text="Tentang\nKami"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginTop="123dp"
+        android:layout_marginRight="322dp"
+        android:text="Simak >"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:textStyle="normal"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="218dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="65dp"
+        android:text="Daftar Menu"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="218dp"
+        android:layout_marginTop="123dp"
+        android:layout_marginRight="100dp"
+        android:text="Cus lihat >"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/menu1"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="39dp"
+        android:layout_marginRight="37dp"
+        android:text="Resep dan\nCara Pembuatan"
+        android:textAlignment="textEnd"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/menu1"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="134dp"
+        android:layout_marginRight="50dp"
+        android:text="Buat Sekarang Yuk"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        android:textStyle="normal"
+        tools:ignore="TextSizeCheck" />
+
+</RelativeLayout>
