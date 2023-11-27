@@ -1,6 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"
+    tools:ignore="ExtraText">
+    >
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="150dp"
+        android:background="@drawable/box1"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="1dp"/>
+    <ImageButton
+        android:id="@+id/arrowback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/preview"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck"/>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/daftar_resep"
+        android:layout_width="130dp"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:gravity="top"
+        android:lineSpacingExtra="-1sp"
+        android:text="@string/daftar_resep"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_marginLeft="56dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nikmati_ich"
+        android:layout_width="274dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="90dp"
+        android:text="@string/nikmati_ich"
+        android:lineSpacingExtra="-1sp"
+        android:gravity="top"
+        android:textColor="#5E718D"
+        android:textStyle="bold"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/kotak"
+        android:layout_marginLeft="21dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="150dp"
+        android:id="@+id/box1"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="47dp"
+        android:paddingRight="50dp"
+        android:text="Mochi Strawberry Read  Bean"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="180dp"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/kotak"
+        android:layout_marginLeft="21dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="270dp"
+        android:id="@+id/box2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="47dp"
+        android:paddingRight="50dp"
+        android:text="Mochi Chocolate Strawberry"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="300dp"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/kotak"
+        android:layout_marginLeft="21dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="390dp"
+        android:id="@+id/box3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="47dp"
+        android:paddingRight="50dp"
+        android:text="Mochi Green Tea"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_marginTop="420dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="530dp"
+        android:src="@drawable/logo" />
+</RelativeLayout>

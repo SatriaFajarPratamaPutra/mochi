@@ -2,17 +2,34 @@
     <string name="app_name">My Application</string>
     <string name="materi">Ichigo Daifuku Malang menawarkan pengalaman kuliner yang menggoda di Kota Malang. Di tengah keindahan alamnya, kota ini juga memanjakan pengunjung dengan sajian istimewa berupa stroberi segar yang dibungkus dalam mochi lembut. Kombinasi unik antara manisnya stroberi dan kenyalnya mochi menciptakan harmoni cita rasa yang tak terlupakan. Dibuat dengan teliti oleh pengrajin lokal, Ichigo Daifuku Malang bukan hanya sebuah kudapan, melainkan juga sebuah pengalaman rasa yang autentik dari kota ini. Bagi para pecinta kuliner, tidak ada yang lebih memuaskan daripada merasakan sentuhan istimewa dari Ichigo Daifuku versi Malang ini.
     </string>
+
     <string name="daftar_menu">Daftar Menu\n</string>
+
     <string name="nikmati_ich">Nikmati Ichigo dengan berbagai varian</string>
+
     <string name="bahan_bahan"><b>Bahan-bahan:</b> \n\n- Tepung ketan\n- Gula pasir\n- Air\n- Stroberi segar\n- Kacang merah manis (Anko) - opsional\n\nCara Pembuatan:\nPersiapkan Adonan Mochi:\nCampur tepung ketan, gula pasir, dan air dalam mangkuk hingga tercampur rata.\nPanaskan campuran di atas api sedang sambil terus diaduk hingga adonan mengental dan matang.\n\nBentuk dan Isi Mochi:\nPipihkan adonan mochi yang telah matang.\nLetakkan potongan kacang merah manis (jika digunakan) di tengah adonan.\nBungkus stroberi segar dengan adonan mochi, pastikan tertutup rapat.\n\nSelesaikan dan Penyajian:\nTaburi bola Ichigo Daifuku dengan sedikit tepung maizena.\nSajikan Ichigo Daifuku (Mochi Strawberry Red Bean) dan nikmati kesegarannya.
     </string>
+
     <string name="mochi_straw">Mochi Strawberry Read Bean\n</string>
+
     <string name="mochi_strawa">Mochi Chocolate Strawberry\n</string>
+
     <string name="mochi_strawb">Mochi Green Tea\n</string>
+
     <string name="deskripsi_m"><b>Deskripsi:</b> Mochi Strawberry Red Bean adalah hidangan manis Jepang yang terdiri dari lapisan mochi lembut yang dibungkus di sekitar pasta kacang merah manis dengan tambahan potongan strawberry segar di tengahnya. Ini adalah perpaduan yang lezat antara rasa manis dari kacang merah dan kelembutan mochi, ditambah kesegaran dari potongan strawberry yang menyegarkan.\u000d\n\u000d\n<b>Informasi Singkat:</b> Dessert Jepang dengan mochi lembut, kacang merah manis, dan potongan strawberry segar.\u000d\n\u000d\n<b>Nama:</b> Mochi Strawberry Red Bean\u000d\n<b>Harga:</b> Rp. 30.000\u000d\n\u000d\n<b>Informasi Tambahan:</b>\u000d\n\u000d\nKeterangan Khusus: Mungkin menyertakan informasi tentang kehalalan, kandungan gluten (jika ada), atau informasi kesehatan jika diperlukan.\u000d\n\nSaran Penyajian: Dapat disajikan sebagai hidangan penutup setelah makan atau sebagai camilan di waktu luang.
-</string>
+    </string>
+
     <string name="deskripsi_ma"><b>Deskripsi:</b> Mochi Chocolate Strawberry adalah kombinasi menggoda antara kelezatan cokelat dengan manisnya potongan strawberry di dalam lapisan mochi lembut. Kelembutan mochi dipadukan dengan rasa cokelat yang kaya dan sensasi manis segar dari potongan strawberry, menciptakan pengalaman rasa yang memikat.\u000d\n\u000d\n<b>Informasi Singkat:</b>Dessert unik dengan kombinasi cokelat, potongan strawberry, dan mochi lembut.\u000d\n\u000d\n<b>Nama:</b> Mochi Chocolate Strawberry\u000d\n<b>Harga:</b> Rp. 30.000\u000d\n\u000d\n<b>Informasi Tambahan:</b>\u000d\n\u000d\nKeterangan Khusus: Mungkin menyertakan informasi tentang kehalalan, kandungan gluten (jika ada), atau informasi kesehatan jika diperlukan.\u000d\n\nSaran Penyajian: Dapat disajikan sebagai hidangan penutup setelah makan atau sebagai camilan di waktu luang.
-</string>
+    </string>
+
     <string name="deskripsi_mb"><b>Deskripsi:</b> Mochi Green Tea adalah perpaduan harmonis antara kelembutan mochi dengan cita rasa teh hijau yang khas. Dengan lapisan mochi yang lembut dan isian teh hijau yang autentik, hidangan ini menawarkan kesegaran rasa yang khas dari teh hijau yang diolah dengan teliti.\u000d\n\u000d\n<b>Informasi Singkat:</b>Dessert yang memikat dengan kombinasi mochi lembut dan cita rasa teh hijau autentik.\u000d\n\u000d\n<b>Nama:</b> Mochi Green Tea\u000d\n<b>Harga:</b> Rp. 30.000\u000d\n\u000d\n<b>Informasi Tambahan:</b>\u000d\n\u000d\nKeterangan Khusus: Mungkin menyertakan informasi tentang kehalalan, kandungan gluten (jika ada), atau informasi kesehatan jika diperlukan.\u000d\n\nSaran Penyajian: Dapat disajikan sebagai hidangan penutup setelah makan atau sebagai camilan di waktu luang.
-</string>
+    </string>
+
+    <string name="daftar_resep">Daftar Resep</string>
+
+    <string name="bahan_bahan1">Bahan-bahan:\nTepung ketan\nGula pasir\nAir\nStroberi segar\nKacang merah manis (Anko) - opsional\n\nCara Pembuatan:\nPersiapkan Adonan Mochi:\nCampur tepung ketan, gula pasir, dan air dalam mangkuk hingga tercampur rata.\nPanaskan campuran di atas api sedang sambil terus diaduk hingga adonan mengental dan matang.\n\nBentuk dan Isi Mochi:\nPipihkan adonan mochi yang telah matang.\nLetakkan potongan kacang merah manis (jika digunakan) di tengah adonan.\nBungkus stroberi segar dengan adonan mochi, pastikan tertutup rapat.\n\nSelesaikan dan Penyajian:\nTaburi bola Ichigo Daifuku dengan sedikit tepung maizena.\nSajikan Ichigo Daifuku (Mochi Strawberry Red Bean) dan nikmati kesegarannya.</string>
+
+    <string name="bahan_bahan2">Bahan-bahan:\nTepung ketan\nGula pasir\nAir\nBubuk matcha (green tea)\nAnko (pasta kacang merah manis)\n\nCara Pembuatan:\nPersiapan Adonan Mochi:\nCampur tepung ketan, gula pasir, dan air dalam mangkuk hingga rata.\nTambahkan bubuk matcha ke dalam campuran adonan hingga merata.\nPanaskan campuran di atas api sedang sambil terus diaduk hingga adonan matang dan kalis.\n\nIsian Anko:\nSiapkan anko atau pasta kacang merah manis sebagai isian.\nSediakan anko dalam bentuk bola kecil untuk penggunaan.\n\nBentuk dan Isi Mochi:\nPipihkan adonan mochi yang telah matang dan beraroma matcha.\nLetakkan bola anko di tengah adonan mochi.\nTutup anko dengan adonan mochi dan bentuk menjadi bola kecil.\n\nPenyajian:\nTaburkan sedikit tepung maizena pada permukaan untuk mencegah lengket.\nSajikan Mochi Green Tea sebagai sajian manis yang lezat dengan sentuhan matcha yang khas.\n\n
+    </string>
+
 </resources>

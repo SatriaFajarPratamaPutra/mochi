@@ -1,6 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"
+    tools:ignore="ExtraText">
+    >
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:background="@drawable/rectangle2"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="2dp"/>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageButton
+        android:id="@+id/arrowback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/preview"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck"/>
+
+    <TextView
+        android:layout_width="268dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:text="Mochi Green Tea"
+        android:lineSpacingExtra="-1sp"
+        android:gravity="top"
+        android:textColor="#1C222B"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:id="@+id/bahan_bahan"
+        android:layout_width="320dp"
+        android:layout_height="540dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:text="@string/bahan_bahan2"
+        android:lineSpacingExtra="-1sp"
+        android:gravity="top"
+        android:textColor="@color/black"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="600dp"
+        android:src="@drawable/mochi3" />
+
+</RelativeLayout>

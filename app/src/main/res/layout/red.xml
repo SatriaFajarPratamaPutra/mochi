@@ -2,17 +2,46 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/backgorund"
+    android:background="@drawable/menu"
     tools:ignore="ExtraText">
     >
-    <!-- Auto layout, variables, and unit scale are not yet supported -->
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="150dp"
+        android:background="@drawable/rectangle2"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="2dp"/>
+
+    <ImageButton
+        android:id="@+id/arrowback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/preview"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck"/>
+
+    <TextView
+
+        android:layout_width="268dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:text="Mochi Strawberry Read Bean"
+        android:lineSpacingExtra="-1sp"
+        android:gravity="top"
+        android:textColor="#1C222B"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        />
+
     <TextView
         android:id="@+id/bahan_bahan"
         android:layout_width="320dp"
         android:layout_height="456dp"
         android:layout_centerHorizontal="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="140dp"
         android:text="@string/bahan_bahan"
         android:lineSpacingExtra="-1sp"
         android:gravity="top"

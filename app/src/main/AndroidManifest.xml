@@ -30,6 +30,7 @@
             android:name=".tentang"
             android:exported="true">
         </activity>
+
         <activity
             android:name=".menu"
             android:exported="true">
@@ -49,6 +50,28 @@
             android:name=".matcha"
             android:exported="true">
         </activity>
+
+        <activity
+            android:name=".resep"
+            android:exported="true">
+
+        </activity>
+
+        <activity
+            android:name=".resep_red"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".resep_coklat"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".resep_matcha"
+            android:exported="true">
+        </activity>
+
     </application>
 
 </manifest>
